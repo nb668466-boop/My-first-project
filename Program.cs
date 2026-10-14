@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hi!!!!!!!!!!!!!!!");
             Console.ReadLine();
+
+            v v1=new v("nechami");
         }
     }
 }

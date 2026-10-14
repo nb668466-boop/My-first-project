@@ -10,5 +10,10 @@ namespace ConsoleApp1
     {
         private int n = 0;
         private int m=7;
+        private string s;
+
+        public v(string s) { 
+            this.s = s;
+        }
     }
 }

@@ -12,6 +12,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hi!!!!!!!!!!!!!!!");
             Console.ReadLine();
+            for(int i=0;i<10;i++)
+            {
+                Console.WriteLine(i);
+            }
 
             v v1=new v("nechami");
         }
